@@ -20,5 +20,16 @@
   "bugs": {
     "url": "https://github.com/sigiljs/altar/issues"
   },
-  "homepage": "https://github.com/sigiljs/altar#readme"
+  "homepage": "https://github.com/sigiljs/altar#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "http2": "^3.3.6",
+    "koa": "^1.2.4",
+    "koa-route": "^2.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.14.1",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.2.0"
+  }
 }
